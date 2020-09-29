@@ -1,1 +1,1 @@
-# personal_development_october
+# personal_changelog_october
