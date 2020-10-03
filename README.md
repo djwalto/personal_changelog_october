@@ -1,6 +1,6 @@
 # David Walton Change Log
 
-This is a changelog of my own personal updates. Not everything is related to code. I wanted to demonstrate and create visability around the behaviors and habits that I am implementing in my own personal and professional growth. Note that this log is starting as of September 28th, 2020 and it not a full description of what I am reading or the courses that I am taking. 
+This is a change log of my own personal development updates. Not everything on this page will be related to code. I wanted to demonstrate and create visability around the behaviors and habits that I am implementing in my own personal and professional growth. Note that this log is starting as of September 28th, 2020 and it is not a full description of what I am building or the courses that I am taking. 
 
 <hr></hr>
 <h4>September 28th 2020 - October 3rd 2020</h4>
