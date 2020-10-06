@@ -15,6 +15,7 @@ This is a change log of my own personal development updates. Not everything on t
 <hr></hr>
 <h4>October 3rd 2020 - October 9th 2020</h4>
 <ul>
+  <li>In Progress - <a href="https://www.edx.org/course/cs50s-introduction-to-computer-science?utm_source=sailthru&utm_medium=email&utm_campaign=triggered_shareit" rel="nofollow">Harvard University: Introduction to Computer Science</a></li>
   <li><g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji> - Completed - <a href="https://www.linkedin.com/learning/programming-foundations-algorithms/" rel="nofollow">Programming Foundations: Algorithms</a></li>
   <li><g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji> - Built - <a href="https://github.com/djwalto/react_slider" rel="nofollow">React Hook Slider Component</a></li>
 
