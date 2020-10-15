@@ -20,5 +20,14 @@ This is a change log of my own personal development updates. Not everything on t
   <li><g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji> - Completed - <a href="https://www.linkedin.com/learning/programming-foundations-algorithms/" rel="nofollow">Programming Foundations: Algorithms</a></li>
   <li><g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji> - Built - <a href="https://github.com/djwalto/react_slider" rel="nofollow">React Hook Slider Component</a></li>
     <li><g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji> - Built - <a href="https://github.com/djwalto/GPT2_Word_Generator" rel="nofollow">GPT2 Word Generator with python3/booste.io API</a></li>
+  <hr></hr>
+<h4>October 10th 2020 - October 16th 2020</h4>
+<ul>
+  <li>In Progress - <a href="https://www.edx.org/course/cs50s-introduction-to-computer-science?utm_source=sailthru&utm_medium=email&utm_campaign=triggered_shareit" rel="nofollow">Harvard University: Introduction to Computer Science</a></li>
+  <li>In Progress - rel="nofollow">Personal Portfolio Site</a></li>
+  <li><g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji> - Completed - <a href="https://www.linkedin.com/learning/javascript-modern-browser-apis/" rel="nofollow">JavaScript: Modern Browser API's</a></li>
+
+
+
 
 
