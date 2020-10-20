@@ -26,8 +26,11 @@ This is a change log of my own personal development updates. Not everything on t
   <li>In Progress - <a href="https://www.edx.org/course/cs50s-introduction-to-computer-science?utm_source=sailthru&utm_medium=email&utm_campaign=triggered_shareit" rel="nofollow">Harvard University: Introduction to Computer Science</a></li>
   <li>In Progress - Personal Portfolio Site</li>
   <li><g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji> - Completed - <a href="https://www.linkedin.com/learning/javascript-modern-browser-apis/" rel="nofollow">JavaScript: Modern Browser API's</a></li></ul>
-
-
-
+<hr></hr>
+<h4>October 17th 2020 - October 23rd 2020</h4>
+<ul>
+  <li>In Progress - <a href="https://www.edx.org/course/cs50s-introduction-to-computer-science?utm_source=sailthru&utm_medium=email&utm_campaign=triggered_shareit" rel="nofollow">Harvard University: Introduction to Computer Science</a></li>
+  <li>In Progress - Personal Portfolio Site</li>
+   <li>In Progress - <a href="https://github.com/djwalto/web_scraper">Web Scraper Project</a></li></ul>
 
 
